@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = "Defaults"
-s.version          = "0.1"
+s.version          = "0.0.1"
 s.summary          = "Defaults library"
 s.homepage         = "https://github.com/NSElvis/Defaults"
 s.license          = 'MIT'
