@@ -1,6 +1,6 @@
 # Defaults
 
-A thin Defaults library.
+A Defaults library based on LevelDB.
 
 ## Author
 
